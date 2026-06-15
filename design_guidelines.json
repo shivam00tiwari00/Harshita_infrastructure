@@ -1,0 +1,108 @@
+{
+  "theme": "Light",
+  "archetype": "4 (Swiss & High-Contrast, Industrial Variant)",
+  "colors": {
+    "primary": "#1E3A8A",
+    "accent": "#F97316",
+    "background": "#FFFFFF",
+    "surface": "#F8FAFC",
+    "surface_alt": "#F1F5F9",
+    "text_main": "#0F172A",
+    "text_muted": "#475569",
+    "border": "#E2E8F0"
+  },
+  "typography": {
+    "headings_font": "Outfit",
+    "body_font": "Manrope",
+    "hierarchy": {
+      "h1": "text-5xl sm:text-6xl lg:text-7xl font-black tracking-tighter text-slate-900 leading-tight",
+      "h2": "text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight text-slate-900",
+      "h3": "text-xl sm:text-2xl font-bold text-slate-900",
+      "body": "text-base leading-relaxed text-slate-600",
+      "label": "text-sm uppercase tracking-[0.2em] font-bold text-orange-500"
+    }
+  },
+  "spacing_and_layout": {
+    "container_padding": "px-6 md:px-12 lg:px-24 py-20",
+    "bento_grid": "grid grid-cols-1 md:grid-cols-3 gap-8",
+    "corners": "rounded-sm",
+    "borders": "border border-slate-200",
+    "alignment": "Left-align dense content. Symmetrical or left-aligned Hero. No center-everything."
+  },
+  "components": {
+    "navigation": "Solid white background (bg-white) with border-b. High contrast logo. Navigation links in Slate-600 hover:text-orange-500.",
+    "buttons": {
+      "primary": "bg-orange-500 hover:bg-orange-600 text-white font-bold uppercase tracking-wider rounded-sm px-8 py-4 transition-all flex items-center justify-center gap-2",
+      "secondary": "bg-transparent border-2 border-slate-900 text-slate-900 hover:bg-slate-900 hover:text-white font-bold uppercase tracking-wider rounded-sm px-8 py-4 transition-all flex items-center justify-center gap-2"
+    },
+    "cards": "bg-white border border-slate-200 rounded-sm p-8 hover:shadow-lg hover:border-orange-500 transition-all duration-300 group flex flex-col items-start"
+  },
+  "media": {
+    "logo": "https://customer-assets.emergentagent.com/job_83a25a7a-16f6-4634-b9e5-6cb747201db2/artifacts/gjzi81fk_IMG-20260615-WA0000.jpg",
+    "hero_bg": "https://images.unsplash.com/photo-1585110587043-36d457f3e803?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NzR8MHwxfHNlYXJjaHwyfHxjb25zdHJ1Y3Rpb24lMjBzaXRlJTIwZHVtcCUyMHRydWNrfGVufDB8fHx8MTc4MTUwNDcwNnww&ixlib=rb-4.1.0&q=85",
+    "services": {
+      "soil_dumping": "https://images.unsplash.com/photo-1671022412547-75c4cb01f47e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1NzR8MHwxfHNlYXJjaHw0fHxjb25zdHJ1Y3Rpb24lMjBzaXRlJTIwZHVtcCUyMHRydWNrfGVufDB8fHx8MTc4MTUwNDcwNnww&ixlib=rb-4.1.0&q=85",
+      "white_cement": "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1MTN8MHwxfHNlYXJjaHwxfHxwbGFzdGVyaW5nJTIwd2FsbCUyMHdvcmtlcnxlbnwwfHx8fDE3ODE1MDQ3MDZ8MA&ixlib=rb-4.1.0&q=85",
+      "wall_putty": "https://images.unsplash.com/photo-1761986757577-140af8859587?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA1MTN8MHwxfHNlYXJjaHwyfHxwbGFzdGVyaW5nJTIwd2FsbCUyMHdvcmtlcnxlbnwwfHx8fDE3ODE1MDQ3MDZ8MA&ixlib=rb-4.1.0&q=85"
+    },
+    "projects": [
+      "https://images.unsplash.com/photo-1515263487990-61b07816b324?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2MDV8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBjb21tZXJjaWFsJTIwYnVpbGRpbmclMjBjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzgxNTA0NzA2fDA&ixlib=rb-4.1.0&q=85",
+      "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2MDV8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBjb21tZXJjaWFsJTIwYnVpbGRpbmclMjBjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzgxNTA0NzA2fDA&ixlib=rb-4.1.0&q=85",
+      "https://images.pexels.com/photos/14989321/pexels-photo-14989321.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "about_image": "https://images.unsplash.com/photo-1614595737476-42487331b8a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2MDV8MHwxfHNlYXJjaHwyfHxtb2Rlcm4lMjBjb21tZXJjaWFsJTIwYnVpbGRpbmclMjBjb25zdHJ1Y3Rpb258ZW58MHx8fHwxNzgxNTA0NzA2fDA&ixlib=rb-4.1.0&q=85"
+  },
+  "motion_and_interactions": {
+    "hover_states": "Buttons translate-y-[-2px] with increased shadow. Service cards border turns to orange-500 on group-hover.",
+    "scroll_animations": "Staggered fade-up for bento grid sections and project gallery.",
+    "accessibility": "Respect prefers-reduced-motion. Ensure ARIA labels on social links."
+  },
+  "content_mapping": {
+    "hero": {
+      "tagline": "Building Trust. Shaping the Future.",
+      "subheadline": "Pan-India construction and infrastructure services delivering premium earthwork and surface finishes.",
+      "cta_primary": "Get a Quote on WhatsApp",
+      "cta_secondary": "Explore Services"
+    },
+    "about": {
+      "founder": "Led by Mrs. Vandana Tiwari",
+      "description": "Harshita Infrastructure stands at the forefront of India's development. From large-scale soil dumping to precision white cement and wall putty finishes, we provide comprehensive solutions that form the backbone of modern construction."
+    },
+    "services": {
+      "items": [
+        {"title": "Soil Dumping", "desc": "Earth filling, site levelling, and heavy earthmoving operations for residential and commercial projects.", "icon": "Truck"},
+        {"title": "White Cement", "desc": "Premium wall finishes and architectural grade cement application for structural durability.", "icon": "Building"},
+        {"title": "Wall Putty", "desc": "Expert surface preparation creating flawless canvases for painting and final coating.", "icon": "Hammer"}
+      ]
+    },
+    "stats_why_choose_us": {
+      "items": [
+        {"metric": "Pan-India", "label": "Reach"},
+        {"metric": "100+", "label": "Projects Completed"},
+        {"metric": "100%", "label": "Quality Assured"}
+      ]
+    },
+    "contact": {
+      "whatsapp": "+91 7355143354",
+      "hr_satyam": "+91 70712 74245",
+      "sachin": "+91 9415940006",
+      "email": "Harshitainfrastructure2@gmail.com"
+    },
+    "footer": {
+      "credit": "Built by Shivam Tiwari",
+      "company": "Harshita Infrastructure"
+    }
+  },
+  "testing": {
+    "attributes": "All interactive and key informational elements MUST include a data-testid attribute matching kebab-case role. Example: data-testid='whatsapp-cta', data-testid='service-card-soil'."
+  },
+  "instructions_to_main_agent": [
+    "Use standard HTML tags (div, section) styled with Tailwind for layout structure instead of strict UI cards everywhere to maintain the rugged construction aesthetic.",
+    "Implement lucide-react icons for visual anchors (e.g., HardHat, Truck, Phone, Mail).",
+    "Create a sticky header with the provided logo URL.",
+    "Ensure the Hero section has high contrast for readability. Use a split layout with typography on a white/light background and the hero image alongside it, OR if using a full background, apply a bg-slate-900/80 heavy overlay.",
+    "Apply 'rounded-sm' consistently to containers and buttons to convey an industrial, blocky, and solid feel.",
+    "Embed WhatsApp links properly: href='https://wa.me/917355143354'.",
+    "Apply 'data-testid' to ALL buttons, links, and forms for testing."
+  ]
+}
